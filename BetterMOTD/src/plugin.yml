@@ -1,0 +1,9 @@
+name: bettermotd
+description: a bettermotd for 1.8
+main: net.anthonyloukinas.bettermotd.Main
+version: 1.0
+commands:
+    bmreload:
+        description: Reload configuration
+    bmmotd:
+        description: Broadcast your MOTD
